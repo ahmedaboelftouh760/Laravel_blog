@@ -17,12 +17,7 @@
 - File Storage
 - and much more ...
 
-## blog home page
-![alt text](img/6.png "blog home page")
----
-## blog posts 
-![alt text](img/1.png "blog home page")
----
+
 
 ## blog dashboard 
 ![alt text](img/2.png "blog home page")
